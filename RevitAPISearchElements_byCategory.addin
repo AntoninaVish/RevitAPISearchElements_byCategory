@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Program Files\RevitAPITrainig\RevitAPISearchElements_byCategory.dll"</Assembly>
+		<AddInId>23D9EB68-E9F9-4D66-83F6-66AD338C409B</AddInId>
+		<FullClassName>RevitAPISearchElements_byCategory.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Поиск элементов модели по категории для Revit</Text>
+	</AddIn>
+</RevitAddIns>
